@@ -21,9 +21,9 @@ Languages and Tools
 
 ## 📈 My Stats
 
-[![status](https://raw.githubusercontent.com/0bvim/github-stats-transparent/output/generated/overview.svg)](#)
-[![languages](https://raw.githubusercontent.com/0bvim/github-stats-transparent/output/generated/languages.svg)](#)
+[![status](https://raw.githubusercontent.com/referee95/github-stats-transparent/output/generated/overview.svg)](#)
+[![languages](https://raw.githubusercontent.com/referee95/github-stats-transparent/output/generated/languages.svg)](#)
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+        <img src="https://raw.githubusercontent.com/referee95/referee95/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
