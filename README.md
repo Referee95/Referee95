@@ -21,8 +21,8 @@ Languages and Tools
 
 ## 📈 My Stats
 
-[![status](https://raw.githubusercontent.com/referee95/github-stats-transparent/output/generated/overview.svg)](#)
-[![languages](https://raw.githubusercontent.com/referee95/github-stats-transparent/output/generated/languages.svg)](#)
+| [![Referee95 GitHub stats](https://github-readme-stats.vercel.app/api?username=Referee95&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/Referee95?tab=repositories) | [![appinha's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Referee95&layout=compact&hide_border=true&theme=jolly)](https://github.com/Referee95?tab=repositories) |
+|:-:|:-:|
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/referee95/referee95/Update/svg/Bottom.svg" alt="Github Stats" />
