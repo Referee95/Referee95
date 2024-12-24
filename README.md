@@ -22,7 +22,7 @@ Languages and Tools
    </h2>
 </br>
 
-## 🎫 My Badge
+## 🎫 My  Badge
 [![<ykhalil->'s 42 stats](https://badge.mediaplus.ma/blck/ykhalil-)](https://github.com/oakoudad/badge42)
 
 ## 📈 My Stats
