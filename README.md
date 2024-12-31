@@ -1,6 +1,6 @@
 <p align="center">  
 <!-- <img src="https://64.media.tumblr.com/649c4e0a415a87e9d93ea661151c0857/4bdcb6fc9a541bc9-8f/s540x810/dec84eafe22fde61da550bbc86a7ddf955013d91.gifv"><br> -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=eb9ca2&center=true&width=500&vCenter=true&lines=Welcome+to+my+Github+Profile;I'm+`Youssef+Khalil`" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=eb9ca2&center=true&width=500&vCenter=true&lines=Welcome+to+my+Github+Profile;I'm+``Youssef+Khalil``" alt="Typing SVG" />
 </p>
 
 ![68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f363837343734373037333361326632663639326537303639366536393664363732653633366636643266366637323639363736393665363136](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
