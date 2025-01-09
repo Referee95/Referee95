@@ -27,8 +27,9 @@ Languages and Tools
 
 ## 📈 My Stats
 
-| [![Referee95 GitHub stats](https://github-readme-stats.vercel.app/api?username=Referee95&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/Referee95?tab=repositories) | [![appinha's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Referee95&layout=compact&hide_border=true&theme=jolly)](https://github.com/Referee95?tab=repositories) |
+| [![Referee95 GitHub stats](https://github-readme-stats.vercel.app/api?username=referee95&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/referee95?tab=repositories) | [![appinha's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=referee95&layout=compact&hide_border=true&theme=jolly)](https://github.com/referee95?tab=repositories) |
 |:-:|:-:|
+
 
 <p align="center">
 	<img alt="referee95's visitors" src="https://komarev.com/ghpvc/?username=referee95&color=8c36db&style=flat&label=visitors" />
