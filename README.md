@@ -28,11 +28,21 @@ Languages and Tools
 ## 📈 My Stats
 
 <p align="center">
-  <a href="https://github.com/referee95?tab=repositories">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=referee95&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=radical"/>
-  </a>
-  <a href="https://github.com/referee95?tab=repositories">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=referee95&layout=compact&hide_border=true&theme=radical"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=F77B00&center=true&vCenter=true&width=435&lines=Hi+there!+👋;Welcome+to+my+GitHub!" alt="Typing SVG" />
+</p>
+
+<br>
+
+| <img src="https://github-readme-stats.vercel.app/api?username=referee95&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=radical&bg_color=0D1117&title_color=F77B00&icon_color=F77B00" width="400"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=referee95&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=F77B00" width="400"/> |
+|:-:|:-:|
+| 📊 **GitHub Stats** | 🧠 **Most Used Languages** |
+
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=referee95&label=Profile%20Views&color=F77B00&style=flat-square" alt="Profile views" />
+  <a href="https://github.com/referee95">
+    <img src="https://img.shields.io/github/followers/referee95?label=Followers&style=social" alt="GitHub followers" />
   </a>
 </p>
 
