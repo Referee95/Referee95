@@ -29,11 +29,9 @@ Languages and Tools
 
 <p align="center">
   <a href="https://github.com/referee95">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=referee95&show_icons=true&hide_border=true&title_color=ff69b4&icon_color=ff69b4&text_color=c9d1d9&bg_color=0d1117&ring_color=ff69b4&count_private=true" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/referee95">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=referee95&layout=compact&hide_border=true&title_color=ff69b4&text_color=c9d1d9&bg_color=0d1117" />
-  </a>
+  <img src="https://img.shields.io/badge/Code- enthusiast-ff69b4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 <p align="center">
@@ -42,6 +40,3 @@ Languages and Tools
 	<img alt="referee95's stars" src="https://img.shields.io/github/stars/referee95?color=blueviolet" />
 </p>
 
-<!-- <p align="center">
-                <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p> -->
