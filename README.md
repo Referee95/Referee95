@@ -26,9 +26,15 @@ Languages and Tools
 [![<ykhalil->'s 42 stats](https://badge.mediaplus.ma/blck/ykhalil-)](https://github.com/oakoudad/badge42)
 
 ## 📈 My Stats
-![referee95's GitHub stats](https://github-readme-stats.vercel.app/api?username=referee95)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=referee95)
+<p align="center">
+  <a href="https://github.com/referee95">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=referee95&show_icons=true&hide_border=true&title_color=ff69b4&icon_color=ff69b4&text_color=c9d1d9&bg_color=0d1117&ring_color=ff69b4&count_private=true" />
+  </a>
+  <a href="https://github.com/referee95">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=referee95&layout=compact&hide_border=true&title_color=ff69b4&text_color=c9d1d9&bg_color=0d1117" />
+  </a>
+</p>
 
 <p align="center">
 	<img alt="referee95's visitors" src="https://komarev.com/ghpvc/?username=referee95&color=8c36db&style=flat&label=visitors" />
