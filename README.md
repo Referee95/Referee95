@@ -37,6 +37,6 @@ Languages and Tools
 	<img alt="referee95's stars" src="https://img.shields.io/github/stars/referee95?color=blueviolet" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
                 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
+</p> -->
