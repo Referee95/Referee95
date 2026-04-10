@@ -26,7 +26,6 @@ Languages and Tools
 [![<ykhalil->'s 42 stats](https://badge.mediaplus.ma/blck/ykhalil-)](https://github.com/oakoudad/badge42)
 
 ## 📈 My Stats
-&count_private=true
 | ![referee95 GitHub stats](https://github-readme-stats.vercel.app/api?username=referee95&show_icons=true&hide=issues&hide_border=true&theme=jolly&count_private=true) | ![referee95 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=referee95&layout=compact&hide_border=true&theme=jolly) |
 |:-:|:-:|
 
