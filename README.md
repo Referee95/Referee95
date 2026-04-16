@@ -1,5 +1,5 @@
 <p align="center">  
-<img src="https://64.media.tumblr.com/a8266cc107c0daf5ed67c00bca3c297c/13e4d7bcde9c8b87-ff/s500x750/682e33d883a637d7b8247e9b71233c658d55178f.gifv"><br>
+<img src="https://media.tenor.com/awdwRkbJzCgAAAAM/goku.gif"><br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=eb9ca2&center=true&width=500&vCenter=true&lines=Welcome+to+my+Github+Profile;I'm+`Youssef+Khalil`" alt="Typing SVG" />
 </p>
 
