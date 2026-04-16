@@ -1,5 +1,5 @@
 <p align="center">  
-<!-- <img src="https://64.media.tumblr.com/649c4e0a415a87e9d93ea661151c0857/4bdcb6fc9a541bc9-8f/s540x810/dec84eafe22fde61da550bbc86a7ddf955013d91.gifv"><br> -->
+<img src="https://64.media.tumblr.com/649c4e0a415a87e9d93ea661151c0857/4bdcb6fc9a541bc9-8f/s540x810/dec84eafe22fde61da550bbc86a7ddf955013d91.gifv"><br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=eb9ca2&center=true&width=500&vCenter=true&lines=Welcome+to+my+Github+Profile;I'm+`Youssef+Khalil`" alt="Typing SVG" />
 </p>
 
@@ -23,6 +23,7 @@ Languages and Tools
 </br>
 
 ## 🎫 My  Badge
+
 [![<ykhalil->'s 42 stats](https://badge.mediaplus.ma/blck/ykhalil-)](https://github.com/oakoudad/badge42)
 
 ## 📈 My Stats
