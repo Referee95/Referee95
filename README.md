@@ -7,13 +7,6 @@
 ![68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f363837343734373037333361326632663639326537303639366536393664363732653633366636643266366637323639363736393665363136](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 [![](https://visitcount.itsvg.in/api?id=Referee95&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-
-<h2>
-Languages and Tools
-</h2>
-
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/referee95/)<br></br>
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,vscode,github,git,visualstudio,html,css,react,js,django,python,ts,java,docker,linux,instagram,linkedin,discord)](https://skillicons.dev)
 <br>
    <h2>
    Glad to see you here!:
@@ -22,6 +15,20 @@ Languages and Tools
     </h4>
    </h2>
 </br>
+
+<h2>
+My Linkedin
+</h2>
+
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/referee95/)<br></br>
+
+
+<h2>
+My Skills
+</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,vscode,github,git,visualstudio,html,css,react,js,django,python,ts,java,docker,linux,instagram,linkedin,discord)](https://skillicons.dev)
+
 
 ## 🎫 My  Badge
 
