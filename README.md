@@ -27,7 +27,7 @@ My Linkedin
 My Skills
 </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,vscode,github,git,visualstudio,html,css,react,js,django,python,ts,java,docker,linux,worldpress,linkedin,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,vscode,github,git,visualstudio,html,css,react,js,django,python,ts,java,docker,linux,wordpress,linkedin,discord)](https://skillicons.dev)
 
 
 ## 🎫 My  Badge
