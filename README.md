@@ -11,7 +11,7 @@
    <h2>
    Glad to see you here!:
      <h4>
-     I'm KHALIL YOUSSEF a computer science student at UM6P - 1337 MED (42 Network). I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide      and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+     I'm KHALIL YOUSSEF a computer science student at UM6P-1337 MED (42 Network). I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide      and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
     </h4>
    </h2>
 </br>
